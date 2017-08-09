@@ -1,4 +1,4 @@
-# Cybersecurity Pre-Work - *Security Shepherd Username Here* 
+# Cybersecurity Pre-Work - kevincleppe 
 
 Time spent: 3.5 hours spent in total 
 
